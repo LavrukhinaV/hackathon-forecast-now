@@ -105,16 +105,14 @@
 ## Структура репозитория
 
 ```
-├── data/                  # Исходные датасеты
+├── data/                  # Датасеты
 │   ├── train.csv
+│   ├── test.csv
 │   ├── weather.csv
 │   ├── key.csv
-│   └── test.csv
+│   └── store_city_coordinates
 ├── notebooks/             # Jupyter-ноутбуки
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_univariate_EDA.ipynb
-│   └── 04_modeling.ipynb
+│   └── modeling.ipynb
 ├── README.md              # Этот файл
 └── requirements.txt       # Зависимости проекта
 ```
@@ -138,10 +136,9 @@
 ```bash
 git clone git@github.com:LavrukhinaV/hackathon-forecast-now.git
 cd hackathon-forecast-now
-pip install -r requirements.txt
 ```
 
-Открыть ноутбуки в `notebooks/` и следовать порядку выполнения.
+Открыть ноутбук в `notebooks/` и следовать порядку выполнения.
 
 ---
 
