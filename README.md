@@ -21,7 +21,7 @@
 
 ### 1. Загрузка и объединение данных
 
-* Загружены и объединены данные из `train.csv`, `weather_by_city.csv`, `key.csv` и `store_city_coordinates.csv`
+* Загружены и объединены данные из `train.csv`, `weather.csv`, `key.csv` и `store_city_coordinates.csv`
 
 * Для ускорения прототипа выбрано 20 репрезентативных магазинов
 
