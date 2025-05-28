@@ -129,7 +129,7 @@
 > *На карте интенсивность цвета указывает на общее количество продаж в данной точке. Центр карты — средняя геопозиция всех магазинов.*
 
 HTML-версия доступна для интерактивного просмотра:  
-[Открыть store_heatmap.html](./visualizations/store_heatmap.html)
+[Открыть store_heatmap.html](https://sales-heatmap-j3ws.vercel.app/)
 
 ---
 
