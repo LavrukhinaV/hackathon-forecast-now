@@ -202,7 +202,7 @@ cd hackathon-forecast-now
 
 Открыть ноутбук `notebook.ipynb` в `notebooks/` и следовать порядку выполнения (самый лучший и наглядный вариант).
 
-Либо же
+Либо же (лучше не использовать это способ):
 1. Установить зависимости:
    ```bash
    conda env create -f environment.yml
